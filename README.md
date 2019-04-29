@@ -10,12 +10,25 @@ ID:	bigquery-public-data:new_york_mv_collisions.nypd_mv_collisions
 Table Size:	358 MB 
 Number of Rows: 1,481,712
 
+### Tools
+* Keynote
+* Google Big Query, Google Storage
+* Python
+  - csv
+  - pandas
+  - numpy
+  - scipy
+  - datetime
+  - matplotlib
+  - Basemap
+  - folium
+
 ## Guiding Question: 
 How can we reduce the number of accidents in Brooklyn?
 
 See the AnalysisDeck.pdf for the final submitted analysis, including maps, zipcode analysis, datetime analysis, and collision factor analysis. 
 
-## Brooklyn accidents Folium heatmap
+##### Brooklyn accidents Folium heatmap
 
 <p>
   <img src="images/brooklyn_accidents_heatmap.png"/>
