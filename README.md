@@ -12,4 +12,4 @@ Number of Rows: 1,481,712
 
 Guiding Question: How can we reduce the number of accidents in Brooklyn?
 
-![Brooklyn accidents Folium heatmap] (./images/brooklyn_accidents_heatmap.png)
+![Brooklyn accidents Folium heatmap] (./images/brooklyn_accidents_heatmap)
